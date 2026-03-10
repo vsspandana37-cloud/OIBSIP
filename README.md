@@ -1,4 +1,5 @@
 # OIBSIP
+ONLINE EXAMINATION
 The Online Examination System is a web-based application developed to conduct exams digitally. It allows users to log in, attempt multiple choice questions (MCQs), and submit answers within a specified time limit. The system ensures a smooth and organized examination process.
 
  Features
@@ -28,7 +29,7 @@ JavaScript
 
 The main objective of this project is to create a simple and efficient platform for conducting online examinations, reducing manual effort and making the process faster and more reliable.
 
-
+DIGITAL LIBRARY MANAGEMENT
 The Digital Library Management System is a web-based application designed to manage library operations digitally. This project helps in organizing book records, managing users, and simplifying the process of searching and issuing books through an easy-to-use interface.
 
 The system automates traditional library tasks such as maintaining book records, managing members, and handling book availability, making the process faster and more efficient.
